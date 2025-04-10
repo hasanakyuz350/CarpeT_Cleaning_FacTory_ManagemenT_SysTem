@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halı_Yıkama_Fabrikası", "Halı_Yıkama_Fabrikası\Halı_Yıkama_Fabrikası.csproj", "{721593C8-7827-4F25-B0B6-F01E0934EE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721593C8-7827-4F25-B0B6-F01E0934EE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721593C8-7827-4F25-B0B6-F01E0934EE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721593C8-7827-4F25-B0B6-F01E0934EE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721593C8-7827-4F25-B0B6-F01E0934EE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB312AD-09CB-4240-9A7A-6F0BA1349312}
+	EndGlobalSection
+EndGlobal

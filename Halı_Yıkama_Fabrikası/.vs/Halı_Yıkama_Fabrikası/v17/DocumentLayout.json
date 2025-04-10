@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\OneDrive\\Belgeler\\Ben\\Projeler\\Visual STudio IDE ProjecTs\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{721593C8-7827-4F25-B0B6-F01E0934EE8E}|Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131.csproj|c:\\users\\hasan\\onedrive\\onedrive\\belgeler\\ben\\projeler\\visual studio ide projects\\hal\u0131_y\u0131kama_fabrikas\u0131\\hal\u0131_y\u0131kama_fabrikas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{721593C8-7827-4F25-B0B6-F01E0934EE8E}|Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131.csproj|solutionrelative:hal\u0131_y\u0131kama_fabrikas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721593C8-7827-4F25-B0B6-F01E0934EE8E}|Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131.csproj|C:\\Users\\hasan\\OneDrive\\OneDrive\\Belgeler\\Ben\\Projeler\\Visual STudio IDE ProjecTs\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\hal\u0131_y\u0131kama_fabrikas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{721593C8-7827-4F25-B0B6-F01E0934EE8E}|Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131.csproj|solutionrelative:hal\u0131_y\u0131kama_fabrikas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\OneDrive\\Belgeler\\Ben\\Projeler\\Visual STudio IDE ProjecTs\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\OneDrive\\Belgeler\\Ben\\Projeler\\Visual STudio IDE ProjecTs\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs",
+              "RelativeToolTip": "Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:43:53.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\OneDrive\\Belgeler\\Ben\\Projeler\\Visual STudio IDE ProjecTs\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\OneDrive\\Belgeler\\Ben\\Projeler\\Visual STudio IDE ProjecTs\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs [Design]",
+              "RelativeToolTip": "Hal\u0131_Y\u0131kama_Fabrikas\u0131\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:32:23.769Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
