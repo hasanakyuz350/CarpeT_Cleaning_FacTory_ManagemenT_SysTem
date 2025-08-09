@@ -29,3 +29,4 @@ Halı_Yıkama_Fabrikası
 📌 Notlar
 
 - **Proje, tamamen masaüstü ortamda çalışacak şekilde tasarlanmıştır.
+- **Kullanıcı dostu bir arayüz ile tüm işlemler tek ekrandan yönetilebilir.
