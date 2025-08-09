@@ -3,6 +3,8 @@
 Bu proje, bir halı yıkama fabrikasının iş süreçlerini yönetmek amacıyla geliştirilmiş bir masaüstü otomasyon yazılımıdır.
 Müşteri kayıtlarından teslimata kadar tüm aşamaları kolayca takip etmeye imkân tanır.
 
+---
+
 🚀 Özellikler
 
 - **Müşteri bilgileri yönetimi
@@ -11,11 +13,15 @@ Müşteri kayıtlarından teslimata kadar tüm aşamaları kolayca takip etmeye 
 - **Otomatik fiyat hesaplama
 - **Teslim tarihi planlama
 
+---
+
 🛠 Kullanılan Teknolojiler
 
 - **C#
 - **Windows Forms
 - **MSSQL Server
+
+---
 
 📂 Proje Yapısı
 
@@ -26,6 +32,7 @@ Halı_Yıkama_Fabrikası
 - **Properties
 - **Program.cs
 
+---
 📌 Notlar
 
 - **Proje, tamamen masaüstü ortamda çalışacak şekilde tasarlanmıştır.
